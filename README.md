@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dushyant</h1>
 <h3 align="center">A dedicated Full Stack Developer with a passion for creating dynamic and innovative web applications.</h3>
 
-- 💼 I have interned as an **SDE Intern** at **Ernst & Young**.
+- 💼 I have interned as an **SDE Intern** at **Ernst & Young (EY)**.
 
 - 👨‍💻 All of my projects are available [here](https://github.com/DushyantBhardwaj07?tab=repositories)
 
