@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sW9jQLS46Ftgnkg6G3C84eS8Ut5ccDSo/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Profiles:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dushyantrajeev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dushyantrajeev" height="30" width="40" /></a>
 <a href="https://instagram.com/dushyaaant_bhardwaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dushyaaant_bhardwaj" height="30" width="40" /></a>
